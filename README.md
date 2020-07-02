@@ -1,4 +1,4 @@
-# EDA-_House-Price-Prediction
+# EDA_House-Price-Prediction
 Exploratory data analysis (EDA) on kaggle dataset
   - Basics of EDA
   - Handling Missing values
